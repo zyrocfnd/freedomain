@@ -7,8 +7,8 @@
         "email": "admin@misabilirridlo.sch.id"
     },
     "record": {
-        "CNAME": [
-            "misabilirridlo.sch.id"
+        "URL": [
+            "https://misabilirridlo.sch.id/"
         ]
     },
     "proxied": true
