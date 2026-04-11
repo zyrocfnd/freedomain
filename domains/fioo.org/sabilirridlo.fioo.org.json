@@ -1,0 +1,15 @@
+{
+    "description": "Redirect Domain For sabilirridlo foundation",
+    "domain": "fioo.org",
+    "subdomain": "sabilirridlo",
+    "owner": {
+        "username": "sabilirridlo",
+        "email": "admin@misabilirridlo.sch.id"
+    },
+    "record": {
+        "CNAME": [
+            "misabilirridlo.sch.id"
+        ]
+    },
+    "proxied": true
+}
