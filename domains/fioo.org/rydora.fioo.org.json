@@ -1,0 +1,15 @@
+{
+    "description": "Rydora Technologies website",
+    "domain": "fioo.org",
+    "subdomain": "rydora",
+    "owner": {
+        "username": "Rydora-Technologies",
+        "email": "rydoratech@gmail.com"
+    },
+    "record": {
+        "CNAME": [
+            "divyamaheta.pythonanywhere.com"
+        ]
+    },
+    "proxied": false
+}
